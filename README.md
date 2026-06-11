@@ -22,8 +22,8 @@ The methodology leverages a Triplet Network architecture with a MobileNetV2 back
 To run the code provided in `Paper2_TripletLoss_Github.ipynb`, ensure you have the following environment and data requirements:
 
 1.  **Environment:** A Google Colab environment is recommended, as the notebook is pre-configured for Google Drive integration.
-2.  **Dependencies:** Ensure `tensorflow`, `numpy`, `matplotlib`, `imblearn`, and `scikit-learn` are installed[cite: 2].
-3.  **Data:** The code expects preprocessed image data (e.g., `trainImages.npy`, `trainLabels.npy`) stored in your Google Drive under the path `/content/drive/MyDrive/OASIS_P/pre/`[cite: 2].
+2.  **Dependencies:** Ensure `tensorflow`, `numpy`, `matplotlib`, `imblearn`, and `scikit-learn` are installed[DOI: 10.1038/s41586-020-2649-2].
+3.  **Data:** The code expects preprocessed image data (e.g., `trainImages.npy`, `trainLabels.npy`) stored in your Google Drive under the path `/content/drive/MyDrive/OASIS_P/pre/`[Download From Kaggle : https://www.kaggle.com/].
 
 ## Citation
 If you use this code or our methodology in your research, please cite our paper:
